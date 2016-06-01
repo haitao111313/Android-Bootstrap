@@ -1,4 +1,4 @@
-Android-Bootstrap ceshi
+Android-Bootstrap
 =================
 Android Bootstrap is an Android library which provides custom views styled according to the
  [Twitter Bootstrap Specification](http://getbootstrap.com/). This allows you to spend more time
